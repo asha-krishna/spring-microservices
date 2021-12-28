@@ -23,8 +23,10 @@
 6. Make Rest call through API gateway (port: 8085)
 
    ![image](https://user-images.githubusercontent.com/73759012/147608105-60d404df-e747-439d-9483-62d67556b21f.png)
+   
 
    ![image](https://user-images.githubusercontent.com/73759012/147608154-b6247d75-0fd0-4a4d-9ffc-a02e5ded3dda.png)
+   
 
    ![image](https://user-images.githubusercontent.com/73759012/147608178-ac9de412-714d-43de-9cec-e0600f44213c.png)
 
